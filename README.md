@@ -96,9 +96,3 @@ The project contains two main files:
 2. Introduce support for batch processing.
 3. Provide additional audio formats for download.
 4. Integrate cloud storage for large files.
-
----
-
-## Developers
-- Dishant Bhatnagar
-- Joel Solomon
